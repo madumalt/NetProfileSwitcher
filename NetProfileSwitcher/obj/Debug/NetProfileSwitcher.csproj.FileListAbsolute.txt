@@ -1,0 +1,8 @@
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Debug\NetProfileSwitcher.exe.config
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Debug\NetProfileSwitcher.exe
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Debug\NetProfileSwitcher.pdb
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Debug\NetProfileSwitcher.Form1.resources
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Debug\NetProfileSwitcher.Properties.Resources.resources
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Debug\NetProfileSwitcher.csproj.GenerateResource.Cache
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Debug\NetProfileSwitcher.exe
+C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Debug\NetProfileSwitcher.pdb

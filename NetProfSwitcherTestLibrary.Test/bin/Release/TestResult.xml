@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfSwitcherTestLibrary.Test.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-09-17" time="21:27:30">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.6400" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="WINDOWS" user="THilinA" user-domain="windows" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfSwitcherTestLibrary.Test.dll" executed="True" result="Success" success="True" time="0.172" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NetProfSwitcherTestLibrary" executed="True" result="Success" success="True" time="0.163" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.162" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="Windows_Networking_Connectivity_TestClass" executed="True" result="Success" success="True" time="0.160" asserts="0">
+                <results>
+                  <test-suite type="ParameterizedTest" name="getConnectionProfilesTest" executed="True" result="Success" success="True" time="0.158" asserts="0">
+                    <results>
+                      <test-case name="NetProfSwitcherTestLibrary.Test.Windows_Networking_Connectivity_TestClass.getConnectionProfilesTest()" executed="True" result="Success" success="True" time="0.155" asserts="1" />
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

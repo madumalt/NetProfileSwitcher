@@ -1,0 +1,9 @@
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Release\NetProfileSwitcher.exe.config
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Release\NetProfileSwitcher.Form1.resources
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Release\NetProfileSwitcher.Properties.Resources.resources
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Release\NetProfileSwitcher.csproj.GenerateResource.Cache
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Release\NetProfileSwitcher.exe
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Release\NetProfileSwitcher.pdb
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\bin\Release\System.Data.SQLite.dll
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Release\NetProfileSwitcher.exe
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfileSwitcher\obj\Release\NetProfileSwitcher.pdb

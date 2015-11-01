@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1022]NetProfSwitcherTestLibrary</TopNode>
+  <SelectedNode>[0-1018]NetProfSwitcherTestLibrary.Test.Windows_Networking_Connectivity_TestClass</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1021]C:\Users\THilinA\Documents\Visual Studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfSwitcherTestLibrary.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1022]NetProfSwitcherTestLibrary" Expanded="true" />
+    <Node UniqueName="[0-1023]NetProfSwitcherTestLibrary.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]NetProfSwitcherTestLibrary.Test.Database_Helper_TestClass" Expanded="true" />
+    <Node UniqueName="[0-1001]NetProfSwitcherTestLibrary.Test.Database_Helper_TestClass.Insert_to_networkTableTest" Expanded="true" />
+    <Node UniqueName="[0-1003]NetProfSwitcherTestLibrary.Test.Database_Helper_TestClass.Insert_to_proxyTableTest" Expanded="true" />
+    <Node UniqueName="[0-1005]NetProfSwitcherTestLibrary.Test.Database_Helper_TestClass.Read_networkTableTest" Expanded="true" />
+    <Node UniqueName="[0-1007]NetProfSwitcherTestLibrary.Test.Database_Helper_TestClass.Readd_proxyTableTest" Expanded="true" />
+    <Node UniqueName="[0-1009]NetProfSwitcherTestLibrary.Test.Win32_AdapterConfiguration_Help_TestClass" Expanded="true" />
+    <Node UniqueName="[0-1014]NetProfSwitcherTestLibrary.Test.Win32_AdapterConfiguration_Help_TestClass.getIPTest" Expanded="true" />
+    <Node UniqueName="[0-1016]NetProfSwitcherTestLibrary.Test.Win32_AdapterConfiguration_Help_TestClass.getNICsTest" Expanded="true" />
+    <Node UniqueName="[0-1010]NetProfSwitcherTestLibrary.Test.Win32_AdapterConfiguration_Help_TestClass.setDHCPTest" Expanded="true" />
+    <Node UniqueName="[0-1012]NetProfSwitcherTestLibrary.Test.Win32_AdapterConfiguration_Help_TestClass.setIPTest" Expanded="true" />
+    <Node UniqueName="[0-1018]NetProfSwitcherTestLibrary.Test.Windows_Networking_Connectivity_TestClass" Expanded="true" />
+    <Node UniqueName="[0-1019]NetProfSwitcherTestLibrary.Test.Windows_Networking_Connectivity_TestClass.getConnectionProfilesTest" Expanded="true" />
+  </Nodes>
+</VisualState>

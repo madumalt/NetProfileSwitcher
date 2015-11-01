@@ -1,0 +1,10 @@
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfSwitcherTestLibrary.Test.dll
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfSwitcherTestLibrary.Test.pdb
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfileSwitcher.exe
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\nunit.framework.dll
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\System.Data.SQLite.dll
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\NetProfileSwitcher.pdb
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\bin\Release\nunit.framework.xml
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\obj\Release\NetProfSwitcherTestLibrary.Test.csprojResolveAssemblyReference.cache
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\obj\Release\NetProfSwitcherTestLibrary.Test.dll
+C:\Users\THilinA\documents\visual studio 2012\Projects\NetProfileSwitcher\NetProfSwitcherTestLibrary.Test\obj\Release\NetProfSwitcherTestLibrary.Test.pdb
